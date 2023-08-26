@@ -27,6 +27,8 @@ Releases can be found under [Releases](https://github.com/dasilvaleandro21/LTSpi
 
 Release 1.0.0.0 can only change the schematic colors (not waveform viewer or netlist).  
 
+Theme changes can only be applied when LTSpice is closed (otherwise LTSpice will overwrite LTspiceXVII.ini file on closing).
+
 More themes (and ability to change waveform/netlist colors) are coming soon.
 
 ## Screenshots
