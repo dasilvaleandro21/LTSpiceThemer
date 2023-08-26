@@ -32,31 +32,31 @@ More themes (and ability to change waveform/netlist colors) are coming soon.
 ## Screenshots
 
 - App window:  
-![Alt text](\Pictures\image-5.png)
+![Alt text](Pictures/image-5.png)
 
 - Default:  
-![Alt text](image-6.png)
+![Alt text](Pictures/image-6.png)
 
 - Sakabug:  
-![Alt text](image-7.png)
+![Alt text](Pictures/image-7.png)
 
 - Twilight-after-dawn:  
-![Alt text](image-8.png)
+![Alt text](Pictures/image-8.png)
 
 - Dracula:  
-![Alt text](image-9.png)
+![Alt text](Pictures/image-9.png)
 
 - Softdark:  
-![Alt text](image-10.png)
+![Alt text](Pictures/image-10.png)
 
 - Blackwhite:  
-![Alt text](image-11.png)
+![Alt text](Pictures/image-11.png)
 
 - Redblack:  
-![Alt text](image-12.png)
+![Alt text](Pictures/image-12.png)
 
 - BBking:  
-![Alt text](image-13.png)
+![Alt text](Pictures/image-13.png)
 
 - Blackred:  
-![Alt text](image-14.png)
+![Alt text](Pictures/image-14.png)
