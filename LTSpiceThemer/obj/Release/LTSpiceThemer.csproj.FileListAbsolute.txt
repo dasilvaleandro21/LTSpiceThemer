@@ -1,0 +1,11 @@
+C:\github\LTSpiceThemer\LTSpiceThemer\bin\Release\LTSpiceThemer.exe.config
+C:\github\LTSpiceThemer\LTSpiceThemer\bin\Release\LTSpiceThemer.exe
+C:\github\LTSpiceThemer\LTSpiceThemer\bin\Release\LTSpiceThemer.pdb
+C:\github\LTSpiceThemer\LTSpiceThemer\obj\Release\LTSpiceThemer.csproj.AssemblyReference.cache
+C:\github\LTSpiceThemer\LTSpiceThemer\obj\Release\LTSpiceThemer.csproj.SuggestedBindingRedirects.cache
+C:\github\LTSpiceThemer\LTSpiceThemer\obj\Release\LTSpiceThemer.Form1.resources
+C:\github\LTSpiceThemer\LTSpiceThemer\obj\Release\LTSpiceThemer.Properties.Resources.resources
+C:\github\LTSpiceThemer\LTSpiceThemer\obj\Release\LTSpiceThemer.csproj.GenerateResource.cache
+C:\github\LTSpiceThemer\LTSpiceThemer\obj\Release\LTSpiceThemer.csproj.CoreCompileInputs.cache
+C:\github\LTSpiceThemer\LTSpiceThemer\obj\Release\LTSpiceThemer.exe
+C:\github\LTSpiceThemer\LTSpiceThemer\obj\Release\LTSpiceThemer.pdb
