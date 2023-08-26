@@ -215,8 +215,6 @@ namespace LTSpiceThemer {
             Color backgrid = Color.FromArgb(255, 255 - Grid.R, 255 - Grid.G, 255 - Grid.B);
 
 
-            //ControlPaint.DrawGrid(graphics, new Rectangle(Point.Empty, bitmap.Size), new Size(10, 10), Color.FromArgb(Grid.ToArgb() ^ 0xffffff));
-            //ControlPaint.DrawGrid(graphics, new Rectangle(Point.Empty, bitmap.Size), new Size(10, 10), Back);
             DrawGrid(graphics, new Rectangle(Point.Empty, bitmap.Size), new Size(10, 10), Grid);
 
             pictureBox1.Image = bitmap;
@@ -254,46 +252,10 @@ namespace LTSpiceThemer {
         }
 
         private void button2_Click(object sender, EventArgs e) {
-            //textBox1.Text;
-            //var c = File.ReadLines(textBox1.Text).SkipWhile(line => !line.Contains("SchematicColor0=")).TakeWhile(line => !line.Contains("NetlistNormalTextColor"));
-
-            //string text = File.ReadAllText(textBox1.Text);
-            //string[] textLines = File.ReadAllLines(textBox1.Text);
-            //text = text.Replace("some text", "new value");
-            //File.WriteAllText("test.txt", text);
-
-            //string result = textLines.SingleOrDefault(l => l.StartsWith("SchematicColor0="));
-
-
-
-            //MessageBox.Show(result);
-
-            //foreach (string line in textLines.Where(l => l.StartsWith("SchematicColor0=")))
-            //    MessageBox.Show(line);;
-
-
-            //int counter = 0;
-            //string line;
-
-            //// Read the file and display it line by line.
-            //System.IO.StreamReader file = new System.IO.StreamReader(textBox1.Text);
-            //while ((line = file.ReadLine()) != null) {
-            //    if (line.Contains("SchematicColor0=")) {
-            //        //Console.WriteLine(counter.ToString() + ": " + line);
-            //        MessageBox.Show(counter.ToString()+line);
-            //    }
-
-            //    counter++;
-            //}
-
-            //file.Close();
 
 
 
             string[] textLines = File.ReadAllLines(textBox1.Text);
-            //foreach (string line in textLines ) {
-            //    if (line.StartsWith("SchematicColor0=")) MessageBox.Show(line);
-            //}
 
             for (int i = 0; i < textLines.Length; i++) {
                 //textLines[i] = textLines[i].Replace("pdf", "txt");
