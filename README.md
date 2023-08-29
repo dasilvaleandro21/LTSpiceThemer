@@ -62,3 +62,8 @@ More themes (and ability to change waveform/netlist colors) are coming soon.
 
 - Blackred:  
 ![Alt text](Pictures/image-14.png)
+
+## Roadmap:
+- Include new themes  
+- Change waveform viewer and netlist themes as well
+- Show confirmation popup when theme is succesfully applied (thanks to [Mei Omega](https://www.linkedin.com/in/mei-omega-8471a7239/))
